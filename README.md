@@ -51,7 +51,7 @@ You can embed a link if this report is published on Power BI Service.
 I am an aspiring Data Analyst skilled in **Power BI**, **Python**, and **SQL**.  
 This dashboard is a part of my portfolio to demonstrate my ability to transform raw data into meaningful insights.
 
-📎 Connect with me on [LinkedIn]([https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/morsheda-akter-66b310360/))
+📎 Connect with me on [LinkedIn](https://www.linkedin.com/in/morsheda-akter-66b310360/)
 
 ---
 
